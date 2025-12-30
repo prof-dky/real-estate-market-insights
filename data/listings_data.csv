@@ -1,0 +1,66 @@
+listing_id,date,location,property_type,bedrooms,bathrooms,price,views,leads,source
+1,1/10/2023,Kilimani,Apartment,2,2,85000,430,21,organic
+2,1/14/2023,Ruiru,Apartment,1,1,28000,240,12,organic
+3,1/22/2023,Westlands,Apartment,3,2,120000,400,18,paid
+4,2/5/2023,Kileleshwa,Apartment,2,2,95000,310,14,organic
+5,2/18/2023,Roysambu,Apartment,1,1,25000,300,13,organic
+6,3/3/2023,Kitengela,Bungalow,3,2,55000,220,11,referral
+7,3/15/2023,Ngong Road,Apartment,2,2,70000,350,15,organic
+8,3/27/2023,Parklands,Apartment,3,3,130000,380,17,paid
+9,4/6/2023,Ruiru,Apartment,2,1,32000,290,15,direct
+10,4/19/2023,Kilimani,Apartment,1,1,75000,420,23,organic
+11,4/29/2023,Thika Road,Apartment,2,2,45000,275,10,organic
+12,5/8/2023,Syokimau,Bungalow,3,2,60000,250,9,organic
+13,5/19/2023,Westlands,Apartment,1,1,90000,360,16,paid
+14,5/30/2023,Kileleshwa,Apartment,3,3,140000,330,18,organic
+15,6/4/2023,Roysambu,Apartment,2,1,30000,310,13,organic
+16,6/13/2023,Kitengela,Bungalow,4,3,65000,240,12,organic
+17,6/22/2023,Ngong Road,Apartment,1,1,55000,290,11,direct
+18,7/2/2023,Ruiru,Apartment,2,2,35000,305,14,organic
+19,7/10/2023,Kilimani,Apartment,2,2,88000,435,25,organic
+20,7/17/2023,Parklands,Apartment,2,2,115000,365,19,paid
+21,8/1/2023,Thika Road,Apartment,1,1,38000,260,9,organic
+22,8/9/2023,Ruaka,Apartment,2,2,60000,310,18,organic
+23,8/18/2023,Westlands,Apartment,3,2,125000,430,21,paid
+24,8/28/2023,Roysambu,Apartment,1,1,26000,330,14,organic
+25,9/6/2023,Kitengela,Bungalow,3,2,58000,245,12,referral
+26,9/13/2023,Syokimau,Bungalow,4,3,70000,280,13,organic
+27,9/23/2023,Kileleshwa,Apartment,2,2,99000,320,16,organic
+28,10/4/2023,Kilimani,Apartment,3,3,150000,460,27,paid
+29,10/14/2023,Ruiru,Apartment,2,1,34000,310,13,organic
+30,10/25/2023,Ngong Road,Apartment,2,2,72000,340,16,organic
+31,11/3/2023,Westlands,Apartment,1,1,92000,375,18,paid
+32,11/12/2023,Ruaka,Apartment,1,1,52000,270,10,organic
+33,11/21/2023,Thika Road,Apartment,3,2,50000,290,12,organic
+34,12/4/2023,Kileleshwa,Apartment,2,2,99000,350,18,organic
+35,12/12/2023,Roysambu,Apartment,2,1,31000,355,15,organic
+36,12/23/2023,Kitengela,Bungalow,3,2,59000,260,11,referral
+37,1/6/2024,Kilimani,Apartment,1,1,78000,410,20,organic
+38,1/14/2024,Syokimau,Bungalow,4,3,72000,285,14,organic
+39,1/22/2024,Parklands,Apartment,3,3,135000,370,20,paid
+40,1/29/2024,Ruiru,Apartment,2,2,36000,315,12,direct
+41,2/10/2024,Lavington,Apartment,4,3,175000,480,30,paid
+42,2/16/2024,Lavington,Apartment,3,2,160000,460,28,organic
+43,2/26/2024,Karen,Bungalow,4,4,220000,510,32,paid
+44,3/3/2024,Karen,Bungalow,3,3,200000,490,27,organic
+45,3/15/2024,Karen,Bungalow,5,5,260000,530,33,paid
+46,3/27/2024,Ruaka,Apartment,2,1,51000,300,16,organic
+47,4/4/2024,Kilimani,Apartment,2,2,90000,450,25,organic
+48,4/18/2024,Ruiru,Apartment,1,1,30000,295,14,organic
+49,5/2/2024,Kisumu CBD,Apartment,2,1,55000,250,11,referral
+50,5/19/2024,Kisumu CBD,Apartment,3,2,68000,260,12,organic
+51,6/1/2024,Nakuru CBD,Bungalow,3,2,75000,290,14,organic
+52,6/15/2024,Nakuru CBD,Apartment,2,1,60000,300,15,organic
+53,7/1/2024,Eldoret Town,Apartment,2,2,58000,280,13,organic
+54,7/24/2024,Eldoret Town,Apartment,3,2,65000,300,14,direct
+55,8/6/2024,Thika Road,Apartment,2,2,48000,275,11,organic
+56,8/20/2024,Ruaka,Apartment,3,2,70000,320,17,organic
+57,8/31/2024,Kileleshwa,Apartment,4,3,155000,410,23,organic
+58,9/12/2024,Lavington,Apartment,4,3,180000,490,29,paid
+59,9/26/2024,Karen,Bungalow,4,4,240000,525,31,paid
+60,10/11/2024,Karen,Bungalow,3,3,210000,500,28,organic
+61,10/21/2024,Ruaka,Apartment,1,1,52000,305,16,organic
+62,11/3/2024,Kisumu CBD,Apartment,2,1,56000,255,11,organic
+63,11/16/2024,Nakuru CBD,Apartment,3,2,77000,295,14,organic
+64,12/2/2024,Eldoret Town,Apartment,2,1,59000,275,12,referral
+65,12/19/2024,Kilimani,Apartment,3,3,148000,460,26,paid
