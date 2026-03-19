@@ -13,4 +13,4 @@ Use SQL, Python and Power BI to:
 - clean and prepare raw listing data  
 - measure views, leads and conversion by location  
 - compare price bands against engagement  
-- produce clear visuals and a simple insights summary  
+- produce clear visuals and insights summary  
