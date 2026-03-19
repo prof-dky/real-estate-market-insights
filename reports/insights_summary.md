@@ -24,7 +24,7 @@
 | referral |           4.56    |    1250 |      57 |       57200 |
 | direct   |           4.35146 |    1195 |      52 |       47000 |
 
-## notes for interviews
+## notes
 
 - I compared conversion rates across locations, sources, and price levels.
 - I used monthly trends to explain seasonality and demand shifts.
